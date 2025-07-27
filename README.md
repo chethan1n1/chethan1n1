@@ -66,12 +66,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chethan1n1&show_icons=true&theme=radical" height="150"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan1n1&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chethan1n1&show_icons=true&theme=radical&count_private=true&hide_border=false&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan1n1&layout=compact&theme=radical&hide_border=false" height="180" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethan1n1&theme=radical&hide_border=false" height="180" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chethan1n1&theme=radical&no-frame=true&title=Stars,Commits,Followers,PRs,Issues,Repositories" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chethan1n1&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
+
 
 ---
 
